@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Иллюзионисты",
+			"text": "Наши лучшие иллюзионисты и фокусники показывают мастер-класс",
+			"labels": "",
+			"image": "illusion.jpg",
+			"price": "1500",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Акатуй",
+			"text": "Уникальный праздник, проходящий только раз в год. *Подбирайте дату приезда заранее",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "aktuiy.jpg",
+			"price": "5500",
+			"priceOld": "11000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Элеватор",
+			"text": "Посетите самое загадочное и мрачное место в посёлке. Это самое высокое здание в Урмарском районе",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "elevaror.jpg",
+			"price": "3000",
+			"priceOld": "6000",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Алко-тур",
+			"text": "Алко-тур по кафе и ресторанам Урмар!",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "alko.jpg",
+			"price": "*Оплата зависит от количества випитого",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
